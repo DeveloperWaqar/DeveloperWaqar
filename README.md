@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning App Development through React Native
 - 💞️ I’m looking to collaborate on Frontend and full stack projects.
-- 📫 Reach me at Waqarahmed786308@gmai.com.
+- 📫 Reach me at Waqarahmed786308@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am PAssionate about Development.
 
